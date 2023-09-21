@@ -11,4 +11,4 @@ And this specific repository contains documentation about the Proteus software, 
 <br/>
 &nbsp;
 
-[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/09/e_Proteus.png)](https://dicer0.com/#skills)
+[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/09/e_Proteus8.png)](https://dicer0.com/#skills)
