@@ -1,0 +1,52 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout '2.-Practica2 Rectificador para fuente fija de 24V.pdsprj'.
+CADCAM generated at 09:35:30 a. m. on martes, 8 de diciembre de 2020.
+
+File List
+---------
+Top Copper              : 2.-Mirror Practica2 Rectificador para fuente fija de 24V - CADCAM Top Copper.TXT
+Bottom Copper           : 2.-Mirror Practica2 Rectificador para fuente fija de 24V - CADCAM Bottom Copper.TXT
+Top Silk Screen         : 2.-Mirror Practica2 Rectificador para fuente fija de 24V - CADCAM Top Silk Screen.TXT
+Top Solder Resist       : 2.-Mirror Practica2 Rectificador para fuente fija de 24V - CADCAM Top Solder Resist.TXT
+Bottom Solder Resist    : 2.-Mirror Practica2 Rectificador para fuente fija de 24V - CADCAM Bottom Solder Resist.TXT
+Mechanical 1            : 2.-Mirror Practica2 Rectificador para fuente fija de 24V - CADCAM Mechanical 1.TXT
+Drill                   : 2.-Mirror Practica2 Rectificador para fuente fija de 24V - CADCAM Drill.TXT
+
+Photoplotter Setup
+------------------
+Format: RS274X, ASCII, 2.4, imperial, absolute, eob=*, LZO
+Notes:  D=Diameter, S=Side, W=Width, H=Height, C=Chamfer
+
+D10	CIRCLE  D=100th                                                           FLASH
+D11	CIRCLE  D=90th                                                            FLASH
+D12	SQUARE  S=80th                                                            FLASH
+D13	CIRCLE  D=70th                                                            FLASH
+D14	CIRCLE  D=60th                                                            FLASH
+D15	CIRCLE  D=120th                                                           FLASH
+D16	CIRCLE  D=250th                                                           FLASH
+D17	CIRCLE  D=8th                                                             DRAW
+D18	CIRCLE  D=10th                                                            DRAW
+D19	CIRCLE  D=130th                                                           FLASH
+D70	CIRCLE  D=110th                                                           FLASH
+D71	SQUARE  S=100th                                                           FLASH
+D20	CIRCLE  D=80th                                                            FLASH
+D21	CIRCLE  D=150th                                                           FLASH
+D22	CIRCLE  D=290th                                                           FLASH
+
+NC Drill Setup
+--------------
+Format: ASCII, 2.4, imperial, absolute, eob=<CR><LF>, no zero suppression.
+Notes:  Tool sizes are diameters. Layer sets are in brackets - 0=TOP, 15=BOTTOM, 1-14=INNER.
+
+T01	45th (0-15)
+T02	40th (0-15)
+T03	30th (0-15)
+T04	60th (0-15)
+T05	118.1th (0-15)
+
+
+[END OF FILE]
